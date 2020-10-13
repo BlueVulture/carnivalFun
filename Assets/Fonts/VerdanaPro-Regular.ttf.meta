@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 07b80b57706bff64a98a408a7974b895
+timeCreated: 1514731689
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Verdana Pro
+  fontNames:
+  - Verdana Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03eb5251367d11c4b8758561b39de3b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
